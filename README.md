@@ -53,7 +53,8 @@ Length and Width of the Channel used to obtain the given Current is shown in the
 
    The Graph below shows the AC Analysis of the Given Design;
 <img width="408" alt="image" src="https://github.com/user-attachments/assets/2d9affbf-6f27-4022-8f3b-12e1ab4c7929" />
-![3](https://github.com/user-attachments/assets/e3d9cec0-f88c-4fd8-93cb-1b7ac8309948)
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/af031be8-c3d1-4b93-8d0a-3f3571c729f8" />
+
 
 
  
