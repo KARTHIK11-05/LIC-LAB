@@ -4,6 +4,7 @@ lab assessments
 Question : Given that POWER, P=100µ W; Perform DC Analysis, Transient Analysis and AC Analysis for the Given Circuit Designs and also check what happens when the width is increased or decreased of each mosfet;
 
 # Design-1 :
+![image](https://github.com/user-attachments/assets/209dfa11-987d-46b8-bcc5-9112c871f6e3)
 
 Using the Formula for Power, 
 
@@ -11,7 +12,8 @@ P=V*I
 
 We will get the Values of Id as,
 
-Id= 5.56 * 10^-5 A
+Id= 5.55 * 10^-5 A
+<img width="288" alt="image" src="https://github.com/user-attachments/assets/bc74a5dd-df32-4b2a-8d35-7025ea8b718e" />
 
 we have to get the output current, Id for the given circuits by adjusting the values of L & W( Length and Width of the Channel of the MOSFET)
 
