@@ -83,3 +83,36 @@ Length and Width of the Channel used to obtain the given Current is shown in the
          1. M1 has a influence on Id, meaning its width affects the output current.
    3. The circuit performs well in all three analyses—DC, transient, and AC—demonstrating its reliability.
    4. Overall, the design works as intended, following theoretical predictions and proving its practical feasibility.
+
+
+
+# Design-2
+
+<img width="970" alt="image" src="https://github.com/user-attachments/assets/2b174039-6239-46e5-8185-056a0a6e8d06" />
+
+
+Aim : To find DC operating point,find gain using transient analysis and AC analysis.
+
+Components : Mosfets (M1 and M2),DC power supply.
+
+Procedure :
+
+• Make the circuit connection as show above.
+
+• Connect DC power supply to the gate terminal.
+
+• Connect the source terminal to the ground.
+
+• Set the input voltage by obtaining VTC curve and VDD to 1.8 V.
+
+Using the Formula for Power, 
+
+P=V*I/n
+
+We will get the Values of Id as,
+
+Id= 5.56 * 10^-5 A
+
+we have to get the output current, Id for the given circuits by adjusting the values of L & W of both the MOSFETS M1 & M2 ( Length and Width of the Channel of the MOSFET)
+<img width="478" alt="image" src="https://github.com/user-attachments/assets/e16018bc-dcd3-4e11-ac1b-3f21fca48c10" />
+
