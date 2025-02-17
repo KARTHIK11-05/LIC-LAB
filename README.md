@@ -13,6 +13,8 @@ P=V*I
 We will get the Values of Id as,
 
 Id= 5.55 * 10^-5 A
+
+
 <img width="288" alt="image" src="https://github.com/user-attachments/assets/bc74a5dd-df32-4b2a-8d35-7025ea8b718e" />
 
 we have to get the output current, Id for the given circuits by adjusting the values of L & W( Length and Width of the Channel of the MOSFET)
