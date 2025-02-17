@@ -116,7 +116,8 @@ Id= 5.56 * 10^-5 A
 we have to get the output current, Id for the given circuits by adjusting the values of L & W of both the MOSFETS M1 & M2 ( Length and Width of the Channel of the MOSFET)
 
 
-<img width="478" alt="image" src="https://github.com/user-attachments/assets/e16018bc-dcd3-4e11-ac1b-3f21fca48c10" />
+<img width="277" alt="image" src="https://github.com/user-attachments/assets/689e6b50-1dd8-4483-a3c5-849b2d8b4e69" />
+
 
 Now we will be performing the DC, Transient and AC Anlaysis;
 
