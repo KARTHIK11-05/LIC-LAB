@@ -30,7 +30,8 @@ Length and Width of the Channel used to obtain the given Current is shown in the
 
    The Figure below shows the Values obtained from the DC Analysis : 
 
-  
+  <img width="475" alt="image" src="https://github.com/user-attachments/assets/9fa994dd-a2ac-4581-a97c-b954b89716af" />
+
 
 2) Transient Analysis:
 
@@ -39,6 +40,8 @@ Length and Width of the Channel used to obtain the given Current is shown in the
 
   
    The Graph below shows the Transient Response of the Given Design;
+<img width="405" alt="image" src="https://github.com/user-attachments/assets/c761c265-7554-4f9f-833d-a165612c9bfd" />
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/94fba57f-613c-4f58-913a-d1b938b9e38b" />
 
   
    
@@ -49,13 +52,15 @@ Length and Width of the Channel used to obtain the given Current is shown in the
 
 
    The Graph below shows the AC Analysis of the Given Design;
+<img width="408" alt="image" src="https://github.com/user-attachments/assets/2d9affbf-6f27-4022-8f3b-12e1ab4c7929" />
+![3](https://github.com/user-attachments/assets/3a4a0380-c03a-4159-901e-ae0707c58912)
 
  
 
 # RESULT( Design-1):
  1) DC Analysis:
-     1. The calculated drain current (Id) matches the expected value based on power and voltage, Id = 5.56*10^-5 A.
-     2. By adjusting the MOSFET’s channel dimensions (L & W) where L=175nm and W= 178nm, The current requirement was succesfully achecived.
+     1. The calculated drain current (Id) matches the expected value based on power and voltage, Id = 5.55*10^-5 A.
+     2. By adjusting the MOSFET’s channel dimensions (L & W) where L=90um and W= 618um, The current requirement was succesfully achecived.
      4. The circuit behaves as expected under DC conditions.
 
  2) Transient Analysis:
@@ -65,7 +70,7 @@ Length and Width of the Channel used to obtain the given Current is shown in the
 
  3) AC Analysis:
      1. The AC response graph confirms that the circuit remains stable at different frequencies.
-     2. The gain(-9.94 dB) and phase shift(which is nearly 180deg) align with theoretical expectations.
+     2. The gain(9.9 dB) and phase shift(which is nearly 180deg) align with theoretical expectations.
      3. The circuit maintains its performance across the tested frequency range.
 
 # INFERENCE( Design-1):
