@@ -109,6 +109,7 @@ Using the Formula for Power,
 
 P=V*I/n
 
+
 We will get the Values of Id as,
 
 Id= 5.56 * 10^-5 A
